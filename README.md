@@ -2,7 +2,7 @@
 This is just a list of all of the 6 projects that I made to complete CS50W.
 
 # Note
-All of the projects are just source codes **except** for the final project (Capstone) which is available for live preview.
+All of these projects are just source codes **except** for the final project (Capstone) which is available for live preview.
 
 # Projects
 * [Project 0 - Search](https://github.com/AncientSoup/cs50w_search)
