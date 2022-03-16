@@ -3,7 +3,7 @@ This is just a list of all of the 6 projects that I made to complete CS50W.
 
 # Note
 * List is currently incomplete
-* Project 5 is available for live preview
+* Project 5 will be available for live preview when finished.
 
 # Projects
 * [Project 0 - Search](https://github.com/AncientSoup/cs50w_search)
