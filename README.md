@@ -2,15 +2,16 @@
 This is just a list of all of the 6 projects that I made to complete CS50W.
 
 # Note
-All of these projects are just source codes **except** for the final project (Capstone) which is available for live preview.
+* List is currently incomplete
+* Project 5 is available for live preview
 
 # Projects
 * [Project 0 - Search](https://github.com/AncientSoup/cs50w_search)
 * [Project 1 - Wiki](https://github.com/AncientSoup/cs50w_wiki)
 * [Project 2 - Commerce](https://github.com/AncientSoup/cs50w_commerce)
 * [Project 3 - Mail](https://github.com/AncientSoup/cs50w_mail)
-* Project 4 - Network (haven't started)
-* Project 5 - Capstone (haven't started)
+* Project 4 - Network (unfinished)
+* Project 5 - Capstone (unfinished)
 
 # About CS50W
 CS50W is a continuation of [CS50](https://cs50.harvard.edu/), diving more deeply into the design and implementaion of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.  
