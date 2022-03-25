@@ -15,4 +15,3 @@ This is just a list of all of the 6 projects that I made to complete CS50W.
 
 # About CS50W
 CS50W, a course offered by Harvard, is a continuation of [CS50](https://cs50.harvard.edu/), diving more deeply into the design and implementaion of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.  
-> Want to learn CS50W for **free**? You can check out their OpenCourseWare [here](https://cs50.harvard.edu/web/).
