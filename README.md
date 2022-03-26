@@ -14,4 +14,4 @@ This is just a list of all of the 6 projects that I made to complete CS50W.
 * Project 5 - Capstone (unfinished)
 
 # About CS50W
-CS50W, a course offered by Harvard, is a continuation of [CS50](https://cs50.harvard.edu/), diving more deeply into the design and implementaion of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.  
+CS50W, a course offered by Harvard University, is a continuation of [CS50](https://cs50.harvard.edu/), diving more deeply into the design and implementaion of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience.  
