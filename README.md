@@ -10,7 +10,7 @@ This is just a list of all of the 6 projects that I made to complete CS50W.
 * [Project 1 - Wiki](https://github.com/AncientSoup/cs50w_wiki)
 * [Project 2 - Commerce](https://github.com/AncientSoup/cs50w_commerce)
 * [Project 3 - Mail](https://github.com/AncientSoup/cs50w_mail)
-* Project 4 - Network (unfinished)
+* [Project 4 - Network](https://github.com/AncientSoup/cs50w_network)
 * Project 5 - Capstone (unfinished)
 
 # About CS50W
