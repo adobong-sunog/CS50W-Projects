@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there
 This is just a list of all of the 6 projects that I made to complete CS50W.
 
 # Note
